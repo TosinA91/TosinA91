@@ -1,4 +1,4 @@
-👋 Hi, I’m Tosin
+👋 Hello, I’m Tosin
 
 👀 I’m interested in building aesthetically pleasing and performant websites.
 
