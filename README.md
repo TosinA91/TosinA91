@@ -1,7 +1,10 @@
-👋 Hello, I’m Tosin
-
-👀 I’m interested in building aesthetically pleasing and performant websites.
-
-🌱 I’m currently learning JavaScript and Design.
-
-📫 How to reach me Twitter @TosinBuiltIt
+# Hey there 👋🏾
+I'm a Front-End Developer/Email Developer specializing in beautiful, responsive, and accessible web development.
+---
+###### BIO
+- `HTML`, `CSS`, `JS`, `SASS`, `SQL`, `MJML`, & `Figma`
+- 🧱 Building HTML Emails and responsive and interactive web pages 
+- 🌱 Learning about design and tools to improve my workflow 
+- 🧑🏾‍🍳 Fun fact - I enjoy cooking and collecting colognes 
+- 🏀 Playing basketball & watching the NBA
+- 💬 Ping me about development, design, & animation
